@@ -1,0 +1,17 @@
+{
+  "appId": "com.pastelibot.app",
+  "appName": "PasteliBot",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "Keyboard": {
+      "resize": "body"
+    },
+    "StatusBar": {
+      "style": "Light",
+      "backgroundColor": "#FDF6EE"
+    }
+  }
+}
